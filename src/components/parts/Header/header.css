@@ -1,0 +1,23 @@
+.header {
+	font-family: arial;
+}
+.header_h {
+	font-family: arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 68px;
+	line-height: 80px;
+	color: #000000;
+	display: inline-block;
+	word-spacing: -10px;
+}
+.header_p {
+	font-family: arial;
+	display: inline;
+	word-spacing: 0px;
+}
+.h_u_p {
+	font-family: arial;
+	line-height: 30px;
+	word-spacing: 0px;
+}
